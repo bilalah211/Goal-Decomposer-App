@@ -41,7 +41,7 @@ and integrates **OpenRouter AI** for intelligent goal suggestions and task autom
 ![AI Suggestions](screenshots/summary.png)
 
 ### Total Goal Completed Screen
-![Total Goal Completed Screen](screenshots/complgoal.png)
+![Total Goal Completed Screen](screenshots/compgoal.png)
 
 ### Goal Completed Screen
 ![Goal Completed Screen](screenshots/compl.png)
