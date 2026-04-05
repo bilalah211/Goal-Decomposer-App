@@ -22,14 +22,32 @@ and integrates **OpenRouter AI** for intelligent goal suggestions and task autom
 
 ## Screenshots
 
+### App Icon
+![App Icon](screenshots/icon.png)
+
+### Splash Screen
+![Splash Screen](screenshots/splash1.png)
+
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](screenshots/home1.png)
+
+### Add Goal
+![Add Goal](screenshots/addgoal.png)
 
 ### Goal Details
-![Goal Details](screenshots/goal_details.png)
+![Goal Details](screenshots/ai.png)
 
 ### AI Suggestions
-![AI Suggestions](screenshots/ai_suggestions.png)
+![AI Suggestions](screenshots/summary.png)
+
+### Total Goal Completed Screen
+![Total Goal Completed Screen](screenshots/complgoal.png)
+
+### Goal Completed Screen
+![Goal Completed Screen](screenshots/compl.png)
+
+### Folder Structure
+![Folder Structure](screenshots/folder.png)
 
 ---
 
