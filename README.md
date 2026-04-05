@@ -55,7 +55,7 @@ and integrates **OpenRouter AI** for intelligent goal suggestions and task autom
 
 Watch the demo video of Goal Decomposer in action:
 
-[![Demo Video](https://youtube.com/shorts/aMnZPYv3vB0?si=pBRZtygTLsF4qE3-)
+[Demo Video](https://youtube.com/shorts/aMnZPYv3vB0?si=pBRZtygTLsF4qE3-)
 
 ---
 
