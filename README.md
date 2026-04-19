@@ -20,36 +20,26 @@ and integrates **OpenRouter AI** for intelligent goal suggestions and task autom
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-### App Icon
-![App Icon](screenshots/icon.png)
+### 🏗️ Getting Started
+| App Icon | Splash Screen | Home Screen |
+| :---: | :---: | :---: |
+| <img src="screenshots/icon.png" width="180"> | <img src="screenshots/splash1.png" width="180"> | <img src="screenshots/home1.png" width="180"> |
 
-### Splash Screen
-![Splash Screen](screenshots/splash1.png)
+<br>
 
-### Home Screen
-![Home Screen](screenshots/home1.png)
+### 🎯 Goal Management & AI
+| Add Goal | Goal Details | AI Suggestions |
+| :---: | :---: | :---: |
+| <img src="screenshots/addgoal.png" width="180"> | <img src="screenshots/ai.png" width="180"> | <img src="screenshots/summary.png" width="180"> |
 
-### Add Goal
-![Add Goal](screenshots/addgoal.png)
+<br>
 
-### Goal Details
-![Goal Details](screenshots/ai.png)
-
-### AI Suggestions
-![AI Suggestions](screenshots/summary.png)
-
-### Total Goal Completed Screen
-![Total Goal Completed Screen](screenshots/compgoal.png)
-
-### Goal Completed Screen
-![Goal Completed Screen](screenshots/compl.png)
-
-### Folder Structure
-![Folder Structure](screenshots/folder.png)
-
----
+### ✅ Achievements & Structure
+| Total Completed | Goal Finished | Folder Structure |
+| :---: | :---: | :---: |
+| <img src="screenshots/compgoal.png" width="180"> | <img src="screenshots/compl.png" width="180"> | <img src="screenshots/folder.png" width="240"> |---
 
 ## Demo Video
 
